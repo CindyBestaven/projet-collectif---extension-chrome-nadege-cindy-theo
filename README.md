@@ -1,4 +1,4 @@
-# projet-collectif--extension-chrome--byCindy/Nadège/Théo ⏱️
+# projet-collectif--extension-chrome--WorkDesk--byCindy/Nadège/Théo ⏱️
 
 Ce projet collecfif était porté sur la création d'une extension de navigateur Chrome.
 
